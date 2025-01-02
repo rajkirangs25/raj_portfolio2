@@ -3036,6 +3036,7 @@ button:disabled,
   -ms-flex-direction: row;
   flex-direction: row;
   background-color: #2e3450;
+  padding: 0 9% 0 9%;
 }
 
 .spotlights > section > .image {
